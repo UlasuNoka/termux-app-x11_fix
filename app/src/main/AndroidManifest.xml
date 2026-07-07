@@ -231,5 +231,7 @@
             android:value="true" />
 
     </application>
-
+    <queries>
+      <package android:name="com.termux.x11" />
+    </queries>
 </manifest>
